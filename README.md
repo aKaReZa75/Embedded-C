@@ -1,9 +1,6 @@
 # Embedded-C: A Guide to Embedded Systems Programming in C
 Welcome to the **Embedded-C** repository! This repository provides a comprehensive set of tutorials and examples focused on programming microcontrollers using the C language. Whether you're just getting started with embedded systems or looking to deepen your knowledge, this repo offers practical insights into writing efficient and effective C code for embedded applications.
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
-
 <table>
   <tr>
   <td valign="top">
@@ -22,7 +19,17 @@ Welcome to the **Embedded-C** repository! This repository provides a comprehensi
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
 
 # 🔗 Resources
