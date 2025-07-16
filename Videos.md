@@ -4,6 +4,60 @@ Each video is accompanied by a brief description to give you an overview of the 
 These videos are designed to provide practical, hands-on learning experiences for those interested in programming microcontrollers using the C language.    
 Topics range from basic concepts to more advanced techniques, helping you build a solid foundation in embedded systems development.
 
+```plaintext
+Embedded C & Programming
+  ├── [aKaReZa 15 - Embededd_C, VSCode]
+  │    ├─ IDE Setup — VSCode + PlatformIO install and config.
+  │    ├─ Compilation — Hex file generation and upload.
+  │    ├─ Arduino — Project creation and library management.
+  │    └─ Monitor — Serial interface usage.
+  │
+  ├── [aKaReZa 37 - Embededd_C - Part A]
+  │    ├─ Basics — Syntax, structure, functions, variables.
+  │    ├─ stdint.h — Fixed-width types intro.
+  │    ├─ Looping — While and preprocessor directives.
+  │    └─ Comments — Writing descriptive notes in code.
+  │
+  ├── [aKaReZa 46 - Embededd_C - Part B]
+  │    ├─ Output — Format specifiers and ASCII.
+  │    ├─ Data — Arrays, matrices, strings.
+  │    ├─ Loops — do-while vs for loops.
+  │    └─ Conditions — if, switch, comparisons.
+  │
+  ├── [aKaReZa 49 - Embededd_C - Part C]
+  │    ├─ sprintf — Advanced printing.
+  │    ├─ Data — Array/matrix ops, string manipulation.
+  │    ├─ Operators — Arithmetic, logical, assignment, conditional.
+  │    └─ Escape Sequences — Handling special characters.
+  │
+  ├── [aKaReZa 52 - Embededd_C - Part D]
+  │    ├─ Strings — Advanced handling techniques.
+  │    ├─ Functions — Definitions and approaches.
+  │    ├─ Modularity — Header/source, header guards.
+  │    └─ Variables — Global, local, extern, static, auto.
+  │
+  ├── [aKaReZa 56 - Embededd_C - Part E]
+  │    ├─ Control — break vs continue, goto usage.
+  │    ├─ Data Types — Type casting, struct, union, enum, typedef.
+  │    ├─ Memory — volatile, register usage.
+  │    └─ Operators — sizeof, a++ vs ++a.
+  │
+  ├── [aKaReZa 58 - Programing, Numbers]
+  │    ├─ Bases — Decimal, binary, octal, hex conversions.
+  │    ├─ Representation — Signed/unsigned, MSB/LSB.
+  │    ├─ Edge Cases — Overflow, underflow, complements.
+  │    ├─ Precision — Fixed vs floating point.
+  │    └─ Hardware — FPU and DSP overview.
+  │
+  └── [aKaReZa 61 - Embededd_C - Part F]
+       ├─ Directives — Preprocessor usage and macros.
+       ├─ Pointers — Basics + pointers to registers/structs.
+       ├─ Bit Fields — Efficient memory layout.
+       └─ Unions — Flexible data storage.
+```
+
+
+
 <table style="border-collapse: collapse;">
   <tr>
     <td valign="top" style="padding: 0 10px;">
@@ -158,6 +212,24 @@ Topics range from basic concepts to more advanced techniques, helping you build 
         <img src="https://img.youtube.com/vi/1c4Gjq5hifw/maxresdefault.jpg"
              width="360"
              alt="aKaReZa 56 – Embedded_C - Part E Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/Jierza_sBS0">aKaReZa 58 – Programing, Numbers</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Understand how numbers are represented in programming and microcontrollers. This video covers signed vs unsigned integers, base conversions, MSB/LSB, Overflow and Underflow, one's and two's complement, Fixed and Floating Point formats, FPU, and DSP—perfect for mastering numerical data handling in embedded systems.
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/Jierza_sBS0">
+        <img src="https://img.youtube.com/vi/Jierza_sBS0/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 58 – Programing, Numbers Thumbnail"/>
       </a>
     </td>
   </tr>
